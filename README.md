@@ -10,6 +10,9 @@ their profile information as needed.
 * Editing functionality to update profile details.
 
 ## Appetize link
+https://appetize.io/app/rvh7rbnygkvucdpbikepprb4wa
+pixel 4
+Android 11.0
 
 ## Installation
 1. clone repository.
